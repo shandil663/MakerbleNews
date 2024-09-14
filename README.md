@@ -31,29 +31,21 @@ The app uses the NewsAPI to fetch the latest top headlines. You can find more ab
 
 Screenshots:
 
-![Screenshot_2024-09-14-17-49-48-541_sahil healers data makerblenews](https://github.com/user-attachments/assets/73985dba-7d9e-48e9-8964-5890aa41687a)
+![Screenshot_2024-09-14-17-49-48-541_sahil healers data makerblenews](https://github.com/user-attachments/assets/1755a0f1-b729-49b9-a667-ebfdae5f0644)
 
-![Screenshot_2024-09-14-17-49-56-450_sahil healers data makerblenews](https://github.com/user-attachments/assets/7f2fa307-aa68-4d0f-9fbe-767a2a41b035)
+![Screenshot_2024-09-14-17-49-56-450_sahil healers data makerblenews](https://github.com/user-attachments/assets/db415381-5b13-4c7d-b404-72be13ec5bf2)
 
-![Screenshot_2024-09-14-17-50-06-971_sahil healers data makerblenews](https://github.com/user-attachments/assets/b8f8cca6-f511-4a25-accc-7847c131fc83)
+![Screenshot_2024-09-14-17-50-06-971_sahil healers data makerblenews](https://github.com/user-attachments/assets/ad1da51f-eea0-4af4-8677-ee34d5666178)
 
-![Screenshot_2024-09-14-17-50-21-156_sahil healers data makerblenews](https://github.com/user-attachments/assets/a34bd48f-44d3-443a-b1e7-61e5b1c595bb)
+![Screenshot_2024-09-14-17-50-21-156_sahil healers data makerblenews](https://github.com/user-attachments/assets/f1aae76e-22f6-4125-a3d8-6250ec883db6)
 
-![Screenshot_2024-09-14-17-50-28-575_sahil healers data makerblenews](https://github.com/user-attachments/assets/a9bb0eb6-338d-4b4e-8700-293d465b8522)
+![Screenshot_2024-09-14-17-50-28-575_sahil healers data makerblenews](https://github.com/user-attachments/assets/268656c0-54f5-4a41-ab6c-27228d11234c)
 
-![Screenshot_2024-09-14-17-50-36-475_sahil healers data makerblenews](https://github.com/user-attachments/assets/b60da537-a3f5-4083-a38b-839cd4f1b5df)
+![Screenshot_2024-09-14-17-50-36-475_sahil healers data makerblenews](https://github.com/user-attachments/assets/632584bb-0d72-4486-a814-d81e1f3a4a64)
 
-![Screenshot_2024-09-14-17-50-48-813_sahil healers data makerblenews](https://github.com/user-attachments/assets/55ef0112-da5d-4309-a53a-e83ececa8e30)
+![Screenshot_2024-09-14-17-50-48-813_sahil healers data makerblenews](https://github.com/user-attachments/assets/6b891693-d357-4b94-a1fe-531bc53db946)
 
-![Screenshot_2024-09-14-17-50-56-419_sahil healers data makerblenews](https://github.com/user-attachments/assets/af794820-225b-4e4f-a9d5-3ec1708e6c36)
+![Screenshot_2024-09-14-17-50-56-419_sahil healers data makerblenews](https://github.com/user-attachments/assets/0cc5ce73-5112-41b2-b092-0f66ae5655b2)
 
-![Screenshot_2024-09-14-17-51-01-798_sahil healers data makerblenews](https://github.com/user-attachments/assets/f785a782-3feb-4509-9b6b-723238d81e90)
-
-
-
-
-
-
-
-
+![Screenshot_2024-09-14-17-51-01-798_sahil healers data makerblenews](https://github.com/user-attachments/assets/7d775a6c-e544-415f-9f80-9c93234d6a03)
 
