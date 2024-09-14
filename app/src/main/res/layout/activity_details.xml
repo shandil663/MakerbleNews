@@ -1,0 +1,130 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="News Details"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_bold"
+
+            />
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    app:cardCornerRadius="20dp"
+    android:layout_height="200dp">
+    <ImageView
+        android:id="@+id/imageViewThumbnail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+</androidx.cardview.widget.CardView>
+
+
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_bold"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:layout_marginTop="16dp" />
+
+
+        <TextView
+            android:id="@+id/textViewContent"
+            android:layout_width="wrap_content"
+            android:fontFamily="@font/med"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Source: "
+                android:fontFamily="@font/poppins_bold"
+                android:layout_margin="5dp"
+                android:textColor="@color/black"
+                android:textSize="24sp"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/source"
+                android:fontFamily="@font/med"
+                android:layout_width="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="Author: "
+                android:textColor="@color/black"
+                android:fontFamily="@font/poppins_bold"
+                android:layout_margin="5dp"
+                android:textSize="24sp"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/auther"
+                android:fontFamily="@font/med"
+                android:layout_width="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="wrap_content"
+                android:text="PublishedAt: "
+                android:layout_margin="5dp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/poppins_bold"
+                android:textSize="24sp"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:id="@+id/pub"
+                android:layout_width="wrap_content"
+                android:fontFamily="@font/med"
+                android:layout_margin="5dp"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_marginTop="8dp"
+    android:layout_gravity="center_horizontal"
+    android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/buttonBookmark"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bookmark"
+        android:backgroundTint="@color/black"
+        android:layout_marginTop="16dp" />
+    <Button
+        android:id="@+id/viewfull"
+        android:layout_margin="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View full article"
+        android:backgroundTint="@color/black"
+
+        android:layout_marginTop="16dp" />
+</LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
